@@ -1,0 +1,1 @@
+apikey = "PYTHON UNBUFFERED=1;OPEN_API_KEY=sk-proj-EMgDE02Fp7w48zdJqno2KpahvxFbwMpuldJklfnCZsvr6bML5kERUNX66d-c3NMKr66"
