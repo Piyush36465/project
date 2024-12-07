@@ -1,0 +1,8 @@
+##Requirnments##
+ The requirnments for this projects include installing various libraries of python which includes
+ openai
+speechrecognition
+sounddevice
+numpy
+pyttsx3 (for Windows text-to-speech)
+pyaudio (for certain systems if needed)
